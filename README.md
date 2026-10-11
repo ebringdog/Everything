@@ -218,4 +218,4 @@ Everything is offered as a complete free version with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-11 02:50:50 UTC
+**Last updated:** 2026-10-11 09:28:24 UTC
